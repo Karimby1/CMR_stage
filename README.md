@@ -83,11 +83,6 @@ Chaque modèle est entraîné séparément pour chaque segment.
 
 ---
 
-## 🔄 Prochaines étapes
-
-- Déploiement sous forme d’API pour intégration avec les systèmes internes
-- Ajout d'autres variables explicatives (catégories produit, devises, saisonnalité)
-- Monitoring continu et mise à jour des modèles
 
 ---
 
